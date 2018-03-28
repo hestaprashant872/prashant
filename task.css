@@ -1,0 +1,23 @@
+body{
+	background-color: lightblue; 
+}
+
+.func{
+	background-color: darkgrey;
+	text-align: center;
+	transform: translateY(100px);
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.email{
+	margin-top: 20px;
+}
+.forms form{
+	top:100px;
+	transform: translateY(110px);
+	padding:20px;
+	border:1px solid black;
+}
+#signup{
+	display:none;
+}
